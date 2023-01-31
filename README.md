@@ -4,4 +4,4 @@
 This is a README.md file generator that takes user input and makes a README file usind JavaScript and node.js.
 
 # Links
-Github: 
+Github: https://github.com/bmigo/README-generator
